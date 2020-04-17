@@ -1,21 +1,25 @@
 County,Province_State,Country_Region,Confirmed,Deaths
-Not Reported,Michigan,US,2,0.0
-Corpus Christi,Texas,US,4,0.0
-ROCKWALL,Texas,US,2,0.0
-Dekalb,Tennessee,US,1,0.0
-Manassas City,Virginia,US,2,0.0
-Unknown,Virginia,US,0,4.0
-TBD,Missouri,US,4,0.0
-Bear River,Utah,US,6,0.0
-Lac Qui Parle,Minnesota,US,1,0.0
-Northern Kentucky,Kentucky,US,1,0.0
-Unknown,Kansas,US,0,0.0
-Palmer,Alaska,US,2,0.0
+Monitor,Texas,US,0,0.0
+Unassigned,US Military,US,1794,10.0
+Navy,US Military,US,1224,6.0
+Air Force,US Military,US,731,1.0
+Army,US Military,US,717,2.0
+Marine Corps,US Military,US,229,0.0
+"Navajo, AZ",Navajo Nation,US,306,0.0
+"McKinley, NM",Navajo Nation,US,203,0.0
+"Coconino, AZ",Navajo Nation,US,199,0.0
+"Apache, AZ",Navajo Nation,US,147,0.0
+"San Juan, NM",Navajo Nation,US,140,0.0
+"Cibola, NM",Navajo Nation,US,13,0.0
+"San Juan, UT",Navajo Nation,US,12,0.0
+"Sandoval, NM",Navajo Nation,US,12,0.0
+"Socorro, NM",Navajo Nation,US,10,0.0
+"Bernalillo, NM",Navajo Nation,US,0,0.0
+Unassigned,Navajo Nation,US,0,41.0
+Inmates,Federal Bureau of Prisons,US,473,18.0
+Staff,Federal Bureau of Prisons,US,279,0.0
 Unassigned,Wuhan Evacuee,US,4,0.0
 ,External territories,Australia,0,0.0
-,Jervis Bay Territory,Australia,0,0.0
-,Yukon,Canada,3,0.0
-,Northwest Territories,Canada,1,0.0
-,,Myanmar,3,0.0
-,,British Virgin Islands,2,0.0
-,,Turks and Caicos,1,0.0
+,Jervis Bay,Australia,0,0.0
+,,Australia,0,0.0
+,,World,2183964,146873.0
